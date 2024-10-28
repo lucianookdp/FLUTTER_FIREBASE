@@ -1,17 +1,14 @@
-# flutter_application_1
 
-A new Flutter project.
+# Flutter Firebase App
 
-## Getting Started
+Este é um aplicativo Flutter simples integrado com Firebase. Ele demonstra como implementar:
 
-This project is a starting point for a Flutter application.
+- **Autenticação** com e-mail e senha
+- **Armazenamento de dados** usando Firestore
+- **Animação** de um ícone rotativo ao enviar dados
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# FLUTTER_FIREBASE
+- Cadastro e login de usuários com e-mail e senha.
+- Envio de dados para o Firestore.
+- Animação com ícone ao pressionar o botão de envio.
