@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "894744011006",
+    "project_id": "flutter-2b510",
+    "storage_bucket": "flutter-2b510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894744011006:android:0c4738ea78fd4d603685af",
+        "android_client_info": {
+          "package_name": "com.ressabiados.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894744011006-fia6ki9aon1fohrlaak1nahj6bp5i864.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJe_grEZTswMHFCtXm8U3pK4DDNdEY2Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894744011006-fia6ki9aon1fohrlaak1nahj6bp5i864.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894744011006-66nunmj244pp5gl2baljo15inpeodgmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ressabiados.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
